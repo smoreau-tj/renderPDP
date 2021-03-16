@@ -1,6 +1,8 @@
 [
   {
+  "productId":"51043",
   "name": "Even Better Glow™ Light Reflecting Makeup Broad Spectrum SPF 15",
+  "mainImage": "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_ZY5X39_1200x1500_0.png",
   "imgURL": [
   "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_ZY5X39_1200x1500_0.png",
   "https://www.clinique.com/media/export/cms/products/1200x1500/cl_prod_51043_1200x1500_0.png",
@@ -43,8 +45,10 @@
   "category": "Makeup / Foundations"
   },
   {
+  "productId":5380,
   "name": "Take The Day Off™ Makeup Remover For Lids, Lashes & Lips",
-  "imgURL": [
+  "mainImage":"https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_60MK01_1200x1500_0.png",
+  "imgURLs": [
   "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_60MK01_1200x1500_0.png",
   "https://www.clinique.com/media/export/cms/products/1200x1500/cl_prod_5380_1200x1500_0.png",
   "https://www.clinique.com/media/export/cms/products/1200x1500/cl_prod_5380_1200x1500_1.png"
